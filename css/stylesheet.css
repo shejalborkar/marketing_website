@@ -1,0 +1,77 @@
+p {
+    text-align: left;
+    /* start = left and end = right */
+}
+h1 {
+    text-align: center;
+    color: blueviolet;
+    text-decoration: line-through;
+    /* underline and overline */
+}
+h2 {
+    font-weight: 400;
+    font-family: Arial;
+}
+#pixcel1 {
+    font-size: 25px;
+}
+#pixcel2 {
+    font-size: 36px;
+}
+#problem {
+    text-align: center;
+    text-transform: capitalize;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+} 
+a {
+    margin-right: 200px;
+}
+
+#outer {
+    font-size :25px;
+}
+#inner {
+    font-size: 10px;
+}
+#bar {
+    width: 100%;
+    height: 50px;
+    background-color: black;
+    color: white;
+}
+button {
+    background-color: #f1d104;
+}
+
+#logo {
+    color :#f1d104;
+    font-size: 25px;
+
+}
+
+.container {
+    background-color: aqua;
+}
+
+#d3 {
+    position: absolute;
+    top : 800px;
+}
+
+#d4 {
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
